@@ -1,0 +1,6 @@
+
+Pillow    #Manuscript images aur text rendering
+numpy  #Image processing aur numerical operations
+opencv-python  #Image processing
+matplotlib  #Image visualization
+fonttools  #Font glyph aur character checking
