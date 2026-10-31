@@ -43,8 +43,8 @@ selects the corresponding script configuration when creating samples.
   Modi                    `input_text/modi.txt`         `fonts/NotoSansModi-Regular.ttf` or the
                                                         configured Modi font file
 
-  Sharada                 `input_text/sharada.txt`      `fonts/NotoSansSharada-Regular.ttf`
-  -----------------------------------------------------------------------------------------------
+**Sharada:**              `input_text/sharada.txt`        `fonts/NotoSansSharada-Regular.ttf` 
+-----------------------------------------------------------------------------------------------
 
 **Important:** Modi and Sharada samples must contain text in their
 respective Unicode scripts. Changing only the script label or font name
